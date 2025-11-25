@@ -45,5 +45,8 @@ return {
     ["strawberry elephant"] = "🍓🐘",
     ["meowl"] = "🦉🐱",
     ["los puggies"] = "🐶👨‍👦‍👦",
-    ["orcaledon"] = "🦈⚫"
+    ["orcaledon"] = "🦈⚫",
+    ["fishino clownino"] = "🐠",
+    ["la ginger sekolah"] = "🎄🏫",
+    ["gobblino uniciclino"] = "👺🚲"
 }
