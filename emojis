@@ -38,7 +38,7 @@ return {
     ["tralaledon"] = "🦈",
     ["la casa boo"] = "👻🏠",
     ["la extinct grande"] = "🦴",
-    ["la grande combinasion"] = "🦴🦠",
+    ["la grande combinasion"] = "🦴",
     ["la secret combinasion"] = "🤫🦴",
     ["la spooky grande"] = "👻🦴",
     ["la supreme combinasion"] = "💯🦴",
@@ -49,5 +49,8 @@ return {
     ["fishino clownino"] = "🐠",
     ["la ginger sekolah"] = "🎄🏫",
     ["gobblino uniciclino"] = "👺🚲",
-    ["w or l"] = "🟢🔴"
+    ["w or l"] = "🟢🔴",
+    ["lavadorito spinotio"] = "👕",
+    ["festive 67"] = "🎄6️⃣7️⃣",
+    ["la jolly grande"] = "🎄🦴"
 }
