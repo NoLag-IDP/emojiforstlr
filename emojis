@@ -52,5 +52,6 @@ return {
     ["w or l"] = "🟢🔴",
     ["lavadorito spinotio"] = "👕",
     ["festive 67"] = "🎄6️⃣7️⃣",
-    ["la jolly grande"] = "🎄🦴"
+    ["la jolly grande"] = "🎄🦴",
+    ["reinito sleighito"] = "🦌🎄"
 }
